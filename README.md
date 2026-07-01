@@ -1,4 +1,4 @@
-# 💫 About Me:
+# "Hello world 👋"
 Im currently working on BejaClient<br>I also do other Minecraft related projects as mods etc. …<br>Official partner: HostingHaven<br>Tech stock: <br><br>* **Languages:** TypeScript, JavaScript, Java<br>* **Frameworks & Tools:** Vite, Node.js, Git, GitHub Actions<br>
 
 
